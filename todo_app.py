@@ -34,7 +34,7 @@ class TodoApp:
 
     def sort_by_column(self, col, reverse):
         """
-        Trie le treeview par colonne donnée.
+        Trie le treeview par la colonne donnée.
         """
         l = [(self.tree.set(k, col), k) for k in self.tree.get_children('')]
         l.sort(reverse=reverse)
