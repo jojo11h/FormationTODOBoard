@@ -1,0 +1,6 @@
+1- Déposer les binaires (le fichier .exe) dans le dossier de votre choix.
+2- Jouer le script de base de données selon le client déployé.
+3- Déposer le fichier de config (config.json) avec les binaires, dans le même dossier que les binaires.
+4- Modifier le fichier de config (config.json) : 
+	- client_name : Renseignez le nom du client
+	- connection_string : modifier la chaine de connexion à la base de données. Exemple, changer le hostname à localhost et le database=todoboard_test

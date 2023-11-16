@@ -1,0 +1,1 @@
+update configurations set TodoBackgroundColor = '#000000';

@@ -1,2 +1,2 @@
 # FormationTODOBoard
-Un projet Todo Board à utiliser dans le cadre d'une formation.
+Projet Todo Board permettant de gérer des tâches à effectuer.
