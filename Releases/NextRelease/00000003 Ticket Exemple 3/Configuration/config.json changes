@@ -1,0 +1,2 @@
+Modifier la balise "client_name" dans le fichier config.json :
+"client_name" = "Nature & Co"

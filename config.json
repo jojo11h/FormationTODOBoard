@@ -1,0 +1,5 @@
+{
+    "client_name": "Nature & Co",
+    // La chaine de connexion à la BDD
+    "connection_string": "host=localhost;port=3306;user=admin;password=admin;database=todoboard_dev"
+}

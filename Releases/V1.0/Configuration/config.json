@@ -1,0 +1,6 @@
+{
+    // On peut aussi choisir "Peinture"
+    "client_name": "Nature",
+    // La chaine de connexion à la BDD
+    "connection_string": "host=172.21.35.144;port=3306;user=admin;password=admin;database=todoboard_test"
+}
